@@ -7,10 +7,10 @@ document.getElementById("theCount").innerHTML
 +=	count	+	"<br>";
     }
 }
-// var firsNuber = prompt("Enter the first number");
-// var secondNumber = prompt("Enter the second number");
-// var result = Number(firsNuber) + Number(secondNumber);
-// alert("The result is: " + result);
+ var firsNuber = prompt("Enter the first number");
+ var secondNumber = prompt("Enter the second number");
+ var result = Number(firsNuber) + Number(secondNumber);
+ alert("The result is: " + result);
 
 var movie = "le parrain";
     function showMovie(){
